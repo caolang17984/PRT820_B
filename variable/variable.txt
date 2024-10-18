@@ -1,0 +1,11 @@
+raw_data_filepath, csv/ppc_dataset.csv
+article_citation_filepath, result/article_citation.csv
+ppc_abstract_topic_filepath, result/ppc_abstract_topic.csv
+ppc_article_citation_filepath, result/ppc_article_citation.csv
+ppc_article_citation_yearfilter_filepath, result/ppc_article_citation_yearfilter.csv
+ppc_article_citation_count_filepath, result/ppc_article_citation_count.csv
+ppc_article_citation_count_yearfilter_filepath, result/ppc_article_citation_count_yearfilter.csv
+ppc_analysing_data_yearfilter_filepath, result/ppc_analysing_data_yearfilter.csv
+ppc_analysing_data_filepath, result/ppc_analysing_data.csv
+ppc_balance_data_filepath, result/ppc_balance_data.csv
+pca_performance_filepath, result/pca_performance.csv
